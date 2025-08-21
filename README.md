@@ -92,10 +92,6 @@ uv pip install -r requirements.txt
 
 ---
 
-## Getting Started
-
-
----
 
 ## Setting Your OpenAI API Key
 
@@ -144,3 +140,15 @@ If your key is displayed, the environment variable is set correctly.
 ---
 
 After setting up the environment and API key, you can run the tutorials or servers as described in each folder's README or script comments.
+
+
+---
+
+## MCP Resources
+
+Explore these valuable resources to learn more about Model Context Protocol:
+
+- **Video Tutorial**: [Introduction to MCP](https://www.youtube.com/watch?v=N3vHJcHBS-w)
+- **Official Documentation**: [Getting Started with MCP](https://modelcontextprotocol.io/docs/getting-started/intro)
+- **Technical Comparison**: [MCP vs Traditional APIs and RAG](https://medium.com/nane-limon/mcp-model-context-protocol-mcp-vs-traditional-apis-rag-81eebff65111)
+- **Developer Guide**: [MCP vs Fine-tuning vs RAG: Decision Framework](https://blog.stackademic.com/mcp-vs-fine-tuning-vs-rag-the-developers-decision-framework-a410df615a14)

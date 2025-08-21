@@ -33,6 +33,22 @@ The server will start and listen for requests.
 Open a second terminal, navigate to the same folder, and run:
 
 ```cmd
+cd 1_tutorial
+```
+
+If you haven't already activated your virtual environment, do so now:
+
+```cmd
+# On Windows
+venv\Scripts\activate
+
+# On macOS/Linux
+source venv/bin/activate
+```
+
+Then run the Streamlit UI:
+
+```cmd
 streamlit run ui.py
 ```
 
